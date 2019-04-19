@@ -10,3 +10,6 @@ run npm install to get the required packages
 run the app my running "bamazonCustomer.js"
 you will get a prompt that will walk you through the shopping experience
 if you run out of items then go ahead and "refill" by dropping the tables and remaking the db
+take a look at the /screenshots directory in repo for some walkthrough screenshots
+
+enjoy and may the odds be ever in your favor
