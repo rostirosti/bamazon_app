@@ -13,3 +13,6 @@ if you run out of items then go ahead and "refill" by dropping the tables and re
 take a look at the /screenshots directory in repo for some walkthrough screenshots
 
 enjoy and may the odds be ever in your favor
+
+# video walkthrough
+- go to https://1drv.ms/f/s!Avf_TXeHvhZ9-0s9sz96T7RZfmaN to see the video walkthrough
